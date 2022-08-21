@@ -1,4 +1,5 @@
 # MechaCar_Statistical_Analysis
+The purpose of this analysis is to analyze data from an automotive manufacturing company called 'AutosRU'. Their newest prototype, MechaCar is having production issues which is blocking the manufacturing team’s progress. This analysisprovides insights that may help the manufacturing team and resolve the issues.
 
 # Data:
 * MechaCar MPG dataset
