@@ -1,4 +1,12 @@
 # MechaCar_Statistical_Analysis
+
+# Data:
+* MechaCar MPG dataset
+* Suspension Coil dataset
+
+# Software:
+* RStudio
+
 # Linear Regression to Predict MPG
 I performed multiple Linear regression on vehicle_weight, spoiler_angle, ground_clearance, AWD and vehicle_length to check if they could predict MPG..
 
