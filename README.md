@@ -12,3 +12,13 @@ I performed multiple Linear regression on vehicle_weight, spoiler_angle, ground_
 
 * According to our results above, the Adjusted R-Squared value is 0.68 and the Multiple R-squared value is 0.71. This shows a positive relationship and this linear model can effectively predict mpg of MechaCar prototypes.  
 
+# Summary Statistics on Suspension Coils
+The summary statistics was calculated for the pounds per square ich of suspension coils for the manufacturig lots.
+
+* The design specifications for the MechaCar suspension coils require that the variance of the suspension coils must not exceed 100 pounds per square inch. According to the total_summary dataframe below, the variance is 62.29 PSI which meets the required specification.
+
+![total summary df del 2](https://user-images.githubusercontent.com/104453593/185813298-73499558-3f7b-4599-9d59-608dc065e06f.PNG)
+
+* According to the lot_summary dataframe below, lot 1 (variance = 0.97 PSI) and lot 2 (variance = 7.46 PSI) meets the required specification. However, lot 3 (variance = 170.28 PSI) doens't meet the required specifications of 100pounds per square inch.
+
+![del 1 lot summary dframe](https://user-images.githubusercontent.com/104453593/185813304-dc9aacad-24c1-476b-8b12-283221c663d0.PNG)
