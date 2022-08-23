@@ -1,5 +1,5 @@
 # MechaCar_Statistical_Analysis
-The purpose of this analysis is to analyze data from an automotive manufacturing company called 'AutosRU'. Their newest prototype, MechaCar is having production issues which is blocking the manufacturing team’s progress. This analysisprovides insights that may help the manufacturing team and resolve the issues.
+The purpose of this analysis is to analyze data from an automotive manufacturing company called 'AutosRU'. Their newest prototype, MechaCar is having production issues which is blocking the manufacturing team’s progress. This analysis provides insights that may help the manufacturing team and resolve the issues.
 
 # Data:
 * MechaCar MPG dataset
@@ -22,7 +22,7 @@ I performed multiple Linear regression on vehicle_weight, spoiler_angle, ground_
 * According to our results above, the Adjusted R-Squared value is 0.68 and the Multiple R-squared value is 0.71. This shows a positive relationship and this linear model can effectively predict mpg of MechaCar prototypes.  
 
 # Summary Statistics on Suspension Coils
-The summary statistics was calculated for the pounds per square ich of suspension coils for the manufacturig lots.
+The summary statistics was calculated for the pounds per square inch of suspension coils for the manufacturing lots.
 
 * The design specifications for the MechaCar suspension coils require that the variance of the suspension coils must not exceed 100 pounds per square inch. According to the total_summary dataframe below, the variance is 62.29 PSI which meets the required specification.
 
@@ -53,6 +53,8 @@ According to the T-test result below, the p-value (0.60) is higher than the assu
 
 * Lot 3 -test:
 According to the T-test result below, the p-value (0.04) is significantly lower than the assumed significant value (0.05), which means the null hypothesis can be rejected.
+
+
 ![lot 3 t-test](https://user-images.githubusercontent.com/104453593/185814329-fb2090b1-dc6b-4853-a98f-5c241c7bbddb.PNG)
 
 
