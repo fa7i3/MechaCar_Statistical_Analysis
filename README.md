@@ -55,3 +55,6 @@ Accoring to the T-test result below, the p-value (0.60) is higher than the assum
 Accoring to the T-test result below, the p-value (0.04) is significantly lower than the assumed significant value (0.05), which means the null hypothesis can be rejected.
 ![lot 3 t-test](https://user-images.githubusercontent.com/104453593/185814329-fb2090b1-dc6b-4853-a98f-5c241c7bbddb.PNG)
 
+
+# Study Design: MechaCar vs Competition
+For this study, the company can compare the maintenance cost, safety rating, gas mileage and cost using the ANOVA test. Since the ANOVA test is able to check if different samples are significantly similar or different, will give us a p-value that will help us to either accept or reject the null hypothesis. If the p-value is greater than 0.05, then MechaCar has a significant similar performance within these categories (accept the null hypothesis). If the p-value is less than 0.05, then MechaCar is significantly different within these categories (reject the null hypothesis).
